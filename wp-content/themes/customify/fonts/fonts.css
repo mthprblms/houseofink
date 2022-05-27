@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'demoderegular';
-    src: url('/houseofink/wp-content/themes/customify/fonts/demode-webfont.woff2') format('woff2'),
-         url('/houseofink/wp-content/themes/customify/fonts/demode-webfont.woff') format('woff');
+    src: url('/wp-content/themes/customify/fonts/demode-webfont.woff2') format('woff2'),
+         url('/wp-content/themes/customify/fonts/demode-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -16,8 +16,8 @@
 
 @font-face {
     font-family: 'demodenegative';
-    src: url('/houseofink/wp-content/themes/customify/fonts/demode-negative-webfont.woff2') format('woff2'),
-         url('/houseofink/wp-content/themes/customify/fonts/demode-negative-webfont.woff') format('woff');
+    src: url('/wp-content/themes/customify/fonts/demode-negative-webfont.woff2') format('woff2'),
+         url('/wp-content/themes/customify/fonts/demode-negative-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -28,8 +28,8 @@
 
 @font-face {
     font-family: 'dollar_billregular';
-    src: url('/houseofink/wp-content/themes/customify/fonts/dollar_bill-webfont.woff2') format('woff2'),
-         url('/houseofink/wp-content/themes/customify/fonts/dollar_bill-webfont.woff') format('woff');
+    src: url('/wp-content/themes/customify/fonts/dollar_bill-webfont.woff2') format('woff2'),
+         url('/wp-content/themes/customify/fonts/dollar_bill-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -37,8 +37,8 @@
 
 @font-face {
     font-family: 'drunksregular';
-    src: url('/houseofink/wp-content/themes/customify/fonts/drunks-webfont.woff2') format('woff2'),
-         url('/houseofink/wp-content/themes/customify/fonts/drunks-webfont.woff') format('woff');
+    src: url('/wp-content/themes/customify/fonts/drunks-webfont.woff2') format('woff2'),
+         url('/wp-content/themes/customify/fonts/drunks-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -47,8 +47,8 @@
 
 @font-face {
     font-family: 'evil_empireregular';
-    src: url('/houseofink/wp-content/themes/customify/fonts/evil_empire-webfont.woff2') format('woff2'),
-         url('/houseofink/wp-content/themes/customify/fonts/evil_empire-webfont.woff') format('woff');
+    src: url('/wp-content/themes/customify/fonts/evil_empire-webfont.woff2') format('woff2'),
+         url('/wp-content/themes/customify/fonts/evil_empire-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -59,8 +59,8 @@
 
 @font-face {
     font-family: 'neroregular';
-    src: url('/houseofink/wp-content/themes/customify/fonts/nero-webfont.woff2') format('woff2'),
-         url('/houseofink/wp-content/themes/customify/fonts/nero-webfont.woff') format('woff');
+    src: url('/wp-content/themes/customify/fonts/nero-webfont.woff2') format('woff2'),
+         url('/wp-content/themes/customify/fonts/nero-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -68,8 +68,8 @@
 
 @font-face {
     font-family: 'tattoo_regular';
-    src: url('/houseofink/wp-content/themes/customify/fonts/tatti___-webfont.woff2') format('woff2'),
-         url('/houseofink/wp-content/themes/customify/fonts/tatti___-webfont.woff') format('woff');
+    src: url('/wp-content/themes/customify/fonts/tatti___-webfont.woff2') format('woff2'),
+         url('/wp-content/themes/customify/fonts/tatti___-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -77,8 +77,8 @@
 
 @font-face {
     font-family: 'tattoo';
-    src: url('/houseofink/wp-content/themes/customify/fonts/traditional_tattoo_parlour-webfont.woff2') format('woff2'),
-         url('/houseofink/wp-content/themes/customify/fonts/traditional_tattoo_parlour-webfont.woff') format('woff');
+    src: url('/wp-content/themes/customify/fonts/traditional_tattoo_parlour-webfont.woff2') format('woff2'),
+         url('/wp-content/themes/customify/fonts/traditional_tattoo_parlour-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
