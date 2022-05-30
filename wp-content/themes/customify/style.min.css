@@ -7620,3 +7620,13 @@ img.wp-block-cover__image-background {
 .nav-menu-desktop .menu {
     text-align: center;
 }
+
+.has-text-color,
+.has-white-color {
+    width: 50vw;
+    display: inherit;
+    margin: auto;
+    position: relative;
+    padding: 5vh;
+    text-align: center;
+}
