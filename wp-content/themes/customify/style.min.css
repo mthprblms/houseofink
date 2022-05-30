@@ -7616,3 +7616,7 @@ img.wp-block-cover__image-background {
 .link-before {
     font-size: 1.2vw !important;
 }
+
+.nav-menu-desktop .menu {
+    text-align: center;
+}
