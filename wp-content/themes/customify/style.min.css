@@ -7614,7 +7614,7 @@ img.wp-block-cover__image-background {
 }
 
 .link-before {
-    font-size: 1.2vw !important;
+    font-size: 2vh !important;
 }
 
 .nav-menu-desktop .menu {
@@ -7629,4 +7629,8 @@ img.wp-block-cover__image-background {
     position: relative;
     padding: 5vh;
     text-align: center;
+}
+
+.header-top {
+    z-index: 99;
 }
