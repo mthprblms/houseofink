@@ -7634,3 +7634,9 @@ img.wp-block-cover__image-background {
 .header-top {
     z-index: 99;
 }
+
+.has-text-color,
+.has-white-color {
+
+    padding: 0px !important;
+}
