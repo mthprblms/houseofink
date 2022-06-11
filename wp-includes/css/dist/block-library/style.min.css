@@ -422,11 +422,12 @@
 	bottom: 0;
 	right: 0;
 	z-index: 1;
-	opacity: .5;
-	heightA: 100%;
+	/* opacity: .5; */
+	height: 100%;
 	width: 100%;
 	margin-top: -7%;
-  background-image: url(/wp-content/uploads/2021/tv.gif);
+	background-image: url(/wp-content/uploads/2021/tv.gif);
+	mix-blend-mode: lighten;
 }
 
 .wp-block-cover-image.has-background-dim.has-background-dim-10 .wp-block-cover__gradient-background,
@@ -3460,4 +3461,8 @@ pre.wp-block-verse {
 	/* background-repeat: repeat; */
 	/* background-attachment: fixed; */
 	/* background-position: center; */
+  z-index:99;
+  background:black;
+  border: 5vh solid #000000;
+  mix-blend-mode:difference;
 }
