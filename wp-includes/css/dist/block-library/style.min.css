@@ -415,8 +415,8 @@
   background-color: inherit
 }
 
-.wp-block-cover-image.has-background-dim:not(.has-background-gradient)::before, .wp-block-cover-image .wp-block-cover__gradient-background, .wp-block-cover.has-background-dim:not(.has-background-gradient)::before, .wp-block-cover .wp-block-cover__gradient-background {
-	position: absolute;
+#mikes-header {
+  	position: absolute;
 	top: 0;
 	left: 0;
 	bottom: 0;
@@ -3465,4 +3465,22 @@ pre.wp-block-verse {
   background:black;
   border: 5vh solid #000000;
   mix-blend-mode:difference;
+}
+#mikes-header {
+  animation-name: sidetoside;
+animation-duration: 4s; /* or: Xms */
+animation-iteration-count: 10;
+animation-direction: alternate; /* or: normal */
+animation-timing-function: ease-out; /* or: ease, ease-in, ease-in-out, linear, cubic-bezier(x1, y1, x2, y2) */
+animation-fill-mode: forwards; /* or: backwards, both, none */
+animation-delay: 2s; /* or: Xms */
+
+}
+@keyframes sidetoside {
+from {
+transform:translateX(-20vw);
+}
+to {
+transform: translateX(20vw);
+}
 }
