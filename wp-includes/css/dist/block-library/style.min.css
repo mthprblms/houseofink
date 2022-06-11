@@ -415,17 +415,18 @@
   background-color: inherit
 }
 
-.wp-block-cover-image.has-background-dim:not(.has-background-gradient):before,
-.wp-block-cover-image .wp-block-cover__gradient-background,
-.wp-block-cover.has-background-dim:not(.has-background-gradient):before,
-.wp-block-cover .wp-block-cover__gradient-background {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  z-index: 1;
-  opacity: .5
+.wp-block-cover-image.has-background-dim:not(.has-background-gradient)::before, .wp-block-cover-image .wp-block-cover__gradient-background, .wp-block-cover.has-background-dim:not(.has-background-gradient)::before, .wp-block-cover .wp-block-cover__gradient-background {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	z-index: 1;
+	opacity: .5;
+	heightA: 100%;
+	width: 100%;
+	margin-top: -7%;
+  background-image: url(/wp-content/uploads/2021/tv.gif);
 }
 
 .wp-block-cover-image.has-background-dim.has-background-dim-10 .wp-block-cover__gradient-background,
